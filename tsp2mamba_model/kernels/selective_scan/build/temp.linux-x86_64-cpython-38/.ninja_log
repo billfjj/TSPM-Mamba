@@ -1,0 +1,10 @@
+# ninja log v5
+0	5215	1726277673821605663	/home/fjj/Code/UNetMamba/unetmamba_model/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cus/selective_scan_core_fwd.o	aec02ea290e147ea
+0	14413	1726277683014719812	/home/fjj/Code/UNetMamba/unetmamba_model/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cus/selective_scan.o	917c2bd239e0ce03
+0	14437	1726277683031720023	/home/fjj/Code/UNetMamba/unetmamba_model/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cus/selective_scan_core_bwd.o	ccb11c700c0389cb
+2	5079	1726277688442787203	/home/fjj/Code/UNetMamba/unetmamba_model/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusndstate/selective_scan_core_fwd.o	ed4d98c0d8edf7c5
+2	13662	1726277697015893630	/home/fjj/Code/UNetMamba/unetmamba_model/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusndstate/selective_scan_core_bwd.o	f517a74f861c901f
+3	14334	1726277697695902071	/home/fjj/Code/UNetMamba/unetmamba_model/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusndstate/selective_scan_ndstate.o	bc3f20d0c5e0d412
+2	7394	1726277705425998020	/home/fjj/Code/UNetMamba/unetmamba_model/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusoflex/selective_scan_core_fwd.o	224450a459475d90
+2	14539	1726277712571086698	/home/fjj/Code/UNetMamba/unetmamba_model/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusoflex/selective_scan_oflex.o	cd81a18f901a4a17
+2	22096	1726277720122180404	/home/fjj/Code/UNetMamba/unetmamba_model/kernels/selective_scan/build/temp.linux-x86_64-cpython-38/csrc/selective_scan/cusoflex/selective_scan_core_bwd.o	18fe1717226e430a
