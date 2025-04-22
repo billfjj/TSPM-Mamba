@@ -23,6 +23,10 @@ This paper introduces OSSFM-Mamba, a novel framework that integrates omnidirecti
 - 🚀**Performance**:
   - Achieving mIoU improvements of 0.56% over UperNet(Swin-B) on CamVid, 2.6% over SegNeXt(MSCAN-B) on RS2K, and notably, a 14.91% gain over UNetMamba(ResT-Base) on the challenging TSP6K dataset.
 
+## 🌟 Video  
+https://github.com/user-attachments/assets/2dbba8c7-b4a2-4818-af12-d1a478e1383d
+
+https://github.com/user-attachments/assets/cb8a9c54-7ec3-4745-85d0-fdb9ce4d0be8
 
 ## 🚀Installation
 ```bash
